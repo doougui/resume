@@ -51,7 +51,7 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 
 **[Life is Strange Fan Made](https://github.com/doougui/life-is-strange-fan-made)**
 
->Projeto exclusivamente front-end desenvolvido utilizando as tecnologias HTML5, CSS3 (FlexBox), jQuery e JavaScript puro para transformar o mesmo em um PWA (Progressive Web App). Este projeto foi desenvolvido focando na responsividade, acessibilidade, performance e design.
+>Projeto exclusivamente front-end desenvolvido utilizando as tecnologias HTML5, CSS3 (FlexBox) e JavaScript puro utilizando as features das versões ES6+. Este projeto foi desenvolvido focando na responsividade, acessibilidade, performance e design.
 
 **[Hideo Kojima Tribute Page](https://github.com/doougui/kojima_tribute_page)**
 
@@ -83,8 +83,8 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 * Bootstrap 4 - [B7Web](https://b7web.com.br).
 * Banco de Dados MySQL - [B7Web](https://b7web.com.br).
 * PHP do Zero ao Profissional - [B7Web](https://b7web.com.br).
-* JavaScript básico para a manipulação de DOM [Rocketseat](https://rocketseat.com.br/).
-* JavaScript ES6+ [Rocketseat](https://rocketseat.com.br/).
+* JavaScript básico para a manipulação de DOM - [Rocketseat](https://rocketseat.com.br/).
+* JavaScript ES6+ - [Rocketseat](https://rocketseat.com.br/).
 * JavaScript ES6+ - [B7Web](https://b7web.com.br).
 * Curso de Git e GitHub para iniciantes [Instrutor Willian Justen de Vasconcellos na plataforma
 Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/).
