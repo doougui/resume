@@ -23,12 +23,13 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 * CSS3 + FlexBox
 * Design Responsivo
 * CSS Frameworks: Bootstrap 4
-* Javascript básico para manipulação de DOM
+* Javascript ES6+
 * jQuery
 * Python básico
 * Versionamento Git
-* PHP: Estruturação MVC, orientação a objetos, PSRs (PHP Standard Recommendations), atualmente buscand aprender Design Patterns
-* Package Manager: Composer
+* PHP: Estruturação MVC, orientação a objetos, PSRs (PHP Standard Recommendations), atualmente buscando aprender Design Patterns
+* Tempalte Engines: Twig 2.x (PHP)
+* Package Manager: Composer (PHP), Yarn (JS)
 * Banco de dados relacional MySQL
 
 >Ao infinito e além. Busco a cada dia evoluir cada vez mais as minhas habilidades como desenvolvedor de sistemas e websites.
