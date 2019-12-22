@@ -93,7 +93,7 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 * JavaScript ES6+ - [Rocketseat](https://rocketseat.com.br/).
 * JavaScript ES6+ - [B7Web](https://b7web.com.br).
 * Laravel 6 - [B7Web](https://b7web.com.br).
-* Curso de Git e GitHub para iniciantes [Instrutor Willian Justen de Vasconcellos na plataforma
+* Curso de Git e GitHub para iniciantes - [Instrutor Willian Justen de Vasconcellos na plataforma
 Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/).
 * Python básico - [Solyd](https://solyd.com.br/treinamentos/python-basico).
 
