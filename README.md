@@ -19,31 +19,37 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 
 * Inglês de nível intermediário
 
-* HTML5
-* CSS3 + FlexBox
-* Design Responsivo
-* CSS Frameworks: Bootstrap 4
-* Javascript ES6+
-* jQuery
-* Python básico
-* Versionamento Git
-* PHP: Estruturação MVC, orientação a objetos, PSRs (PHP Standard Recommendations), atualmente buscando aprender Design Patterns
-* Tempalte Engines: Twig 2.x (PHP)
-* Package Manager: Composer (PHP), Yarn (JS)
-* Banco de dados relacional MySQL
-
->Ao infinito e além. Busco a cada dia evoluir cada vez mais as minhas habilidades como desenvolvedor de sistemas e websites.
+* HTML5.
+* CSS3 + FlexBox.
+* Design Responsivo.
+* CSS Frameworks: Bootstrap 4.
+* Javascript ES6+.
+* jQuery.
+* Python básico.
+* Versionamento Git.
+* PHP: MVC, orientação a objetos, PSRs (PHP Standard Recommendations).
+* Template Engines: Twig 2.x (PHP), Blade (PHP).
+* Package Managers: Composer (PHP), Yarn (JS), NPM (JS).
+* Banco de dados relacional MySQL.
 
 
 ## Projetos desenvolvidos
 
 **[Estrutura MVC de uso pessoal](https://github.com/doougui/estrutura_mvc)** 
 
->Estrutura MVC desenvolvida por mim para ser utilzada em meus projetos pessoais. Ainda em desenvolvimento.
+>Estrutura MVC desenvolvida por mim para ser utilzada em meus projetos pessoais. Em constante desenvolvimento.
+
+**[Sistema de login](https://github.com/doougui/login)** 
+
+>Sistema de login desenvolvido em PHP utilizando a metodologia BEM para CSS.
+
+**[Kitsune BOT](https://github.com/doougui/kitsune)** 
+
+>Bot para Discord desenvolvido utilizando Node.JS e o módulo DiscordJS para interagir com a [API do Discord](https://discordapp.com/developers/docs/intro).
 
 **[Reserver](https://github.com/doougui/reserver)** 
 
->Projeto desenvolvido utilizando Bootstrap 4, juntamente com jQuery e AJAX para requisições assíncronas. Neste projeto também foi utilizado o plugin jQuery Mask Plugin para realizar a máscara de campo.
+>Projeto desenvolvido utilizando Bootstrap 4, juntamente com jQuery e AJAX para requisições assíncronas. Neste projeto também foi utilizado o plugin jQuery Mask Plugin para realizar máscara de campo.
 
 **[Classificados](https://github.com/doougui/classificados)** 
 
@@ -74,7 +80,7 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 
 ## Formação
 
-**Curso Técnico de Informática para Internet (2º ano, cursando) - CEDUP Diomicio Freitas** - Fevereiro 2018 - Presente.
+**Curso Técnico de Informática para Internet (3º ano, cursando) - CEDUP Diomicio Freitas** - Fevereiro 2018 - Presente.
 
 
 ## Cursos
@@ -86,6 +92,7 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 * JavaScript básico para a manipulação de DOM - [Rocketseat](https://rocketseat.com.br/).
 * JavaScript ES6+ - [Rocketseat](https://rocketseat.com.br/).
 * JavaScript ES6+ - [B7Web](https://b7web.com.br).
+* Laravel 6 - [B7Web](https://b7web.com.br).
 * Curso de Git e GitHub para iniciantes [Instrutor Willian Justen de Vasconcellos na plataforma
 Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/).
 * Python básico - [Solyd](https://solyd.com.br/treinamentos/python-basico).
