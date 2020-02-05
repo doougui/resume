@@ -39,7 +39,7 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 
 >Estrutura MVC desenvolvida por mim para ser utilzada em meus projetos pessoais. Em constante desenvolvimento.
 
-**[Sistema de login](https://github.com/doougui/login)** 
+**[Sistema de login](https://github.com/doougui/auth)** 
 
 >Sistema de login desenvolvido em PHP utilizando a metodologia BEM para CSS.
 
