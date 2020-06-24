@@ -28,12 +28,39 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 * Python básico.
 * Versionamento Git.
 * PHP: MVC, orientação a objetos, PSRs (PHP Standard Recommendations).
+* Testes em PHP com PHPUnit.
+* Desenvolvimento e planejamento de aplicações em Laravel e seu micro-framework Lumen.
 * Template Engines: Twig 2.x (PHP), Blade (PHP).
 * Package Managers: Composer (PHP), Yarn (JS), NPM (JS).
-* Banco de dados relacional MySQL.
+* Banco de dados relacional MySQL e PostgreSQL.
+* Banco de dados não-relacional MongoDB.
+* Desenvolvimento e consumo de APIs REST e autentição com JWT.
+* Conteinerização de aplicações com Docker.
 
 
-## Projetos desenvolvidos
+## Objetivo
+
+Tenho como objetivo aprimorar cada vez mais minhas habilidades em programação e evoluir cada vez mais como profissional.
+
+
+## Experiência profissional
+
+**Software Engineer no [Facebook](https://www.facebook.com/)** - 2021 - Atualmente (2025).
+- Função como desenvolvedor 1
+- Função como desenvolvedor 2
+
+
+## Projetos paralelos
+
+**[Learning Central](https://github.com/doougui/learningcentral)**
+
+>Projeto desenvolvido como trabalho de conclusão de curso na instituição CEDUP Diomício Freitas, como parte do curso "Informática para Internet". Nele foram utilizadas as tecnologias Laravel, SASS e Git Flow.
+
+**[TCC Faculdade](https://github.com/doougui/tcc)**
+
+>Aqui vai a descrição do TCC realizado na faculdade
+
+_**Outros projetos realizados ao longo destes cinco anos.**_
 
 **[Estrutura MVC de uso pessoal](https://github.com/doougui/estrutura_mvc)** 
 
@@ -80,10 +107,12 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 
 ## Formação
 
-**Curso Técnico de Informática para Internet (3º ano, cursando) - CEDUP Diomicio Freitas** - Fevereiro 2018 - Presente.
+**Curso Técnico de Informática para Internet - CEDUP Diomicio Freitas** - Fevereiro 2018 - Dezembro 2020.
+
+**Técnologo em Ánalise e Desenvolvimento de Sistema - IFSC Tubarão** - Março 2020 - Março 2024.
 
 
-## Cursos
+## Cursos complementares
 
 * HTML5 e CSS3 intermediários - [B7Web](https://b7web.com.br).
 * Bootstrap 4 - [B7Web](https://b7web.com.br).
