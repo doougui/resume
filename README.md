@@ -102,8 +102,6 @@ _**Outros projetos realizados ao longo destes cinco anos.**_
 
 >Projeto desenvolvido durante o curso JavaScript Starter (Rocketseat).
 
-Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho freelancer, porém, estou sempre buscando aprimorar minhas habilidades através de projetos pessoais e cursos online.
-
 
 ## Formação
 
