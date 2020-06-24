@@ -17,7 +17,7 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 
 ## Habilidades
 
-* Inglês de nível intermediário
+* Inglês fluente
 
 * HTML5.
 * CSS3 + FlexBox.
