@@ -31,6 +31,7 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 * Template Engines: Twig 2.x (PHP), Blade (PHP).
 * Package Managers: Composer (PHP), Yarn (JS), NPM (JS).
 * Banco de dados relacional MySQL.
+* Jekyll blog-aware static site generator
 
 
 ## Projetos desenvolvidos
