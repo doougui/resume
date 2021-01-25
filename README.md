@@ -20,7 +20,7 @@ Sou um desenvolvedor back-end que ama trabalhar com projetos desafiadores e expe
 * Inglês de nível intermediário
 
 * HTML5.
-* CSS3 + FlexBox.
+* CSS3 (FlexBox, CSS Grid).
 * Design Responsivo.
 * CSS Frameworks: Bootstrap 4.
 * Javascript ES6+.
