@@ -82,7 +82,7 @@ Atualmente não tenho nenhuma experiência profissional em empresas ou trabalho 
 
 ## Formação
 
-**Curso Técnico de Informática para Internet (3º ano, cursando) - CEDUP Diomicio Freitas** - Fevereiro 2018 - Presente.
+**Curso Técnico de Informática para Internet - CEDUP Diomicio Freitas** - Fevereiro 2018 - Dezembro 2020.
 
 
 ## Cursos
