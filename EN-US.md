@@ -54,3 +54,11 @@ Accomplishments:
 - Collaborated closely with team members to deliver a high quality product by making use of SCRUM as an Agile Framework
 
 Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
+
+# Education
+
+## CEDUP Diomício Freitas
+
+###### Internet IT Technician, Web Development; Santa Catarina, Brazil; Jan 2018 - Dec 2020
+
+During the course of my three-year program, I gained a comprehensive understanding of computer programming fundamentals, including algorithms. With a focus on web development, I acquired knowledge about the workings of the internet, including the Hypertext Transfer Protocol (HTTP). Additionally, I received instruction in the utilization of relational databases and other related topics.
