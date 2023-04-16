@@ -38,3 +38,19 @@ Accomplishments:
 - Architected, designed and led the development of a Chrome extension, including UI design using Figma and code logic development with Webpack configuration. Also integrated with WhatsApp to enable realtors to send macro messages and media files, and successfully published the application on the Chrome Web Store.
 
 Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**
+
+<img src="./assets/quikdev-logo.png" align="left" />
+
+## QuikDev
+
+###### Junior Full-Stack Developer; São Paulo, Brazil (Remote); May 2021 — August 2021
+
+> [QuikDev](https://quikdev.com.br/) QuikDev is a Brazilian information technology (IT) company that offers custom software development and IT consulting services to companies in various industries.
+
+Accomplishments:
+
+- Maintained and evolved the enterprise management application Terravista while helping more than 253 enterprises grow
+- Worked as a full-stack developer by making use of technologies like PHP with Zend Framework, Docker and JavaScript
+- Collaborated closely with team members to deliver a high quality product by making use of SCRUM as an Agile Framework
+
+Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
