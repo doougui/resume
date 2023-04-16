@@ -64,3 +64,7 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 > [CEDUP Diomício Freitas](https://ceduptubarao.com.br/) is a technical school affiliated with the state education system in Santa Catarina, Brazil, which offers a variety of vocational training courses.
 
 During the course of my three-year program, I gained a comprehensive understanding of computer programming fundamentals, including algorithms. With a focus on web development, I acquired knowledge about the workings of the internet, including the Hypertext Transfer Protocol (HTTP). Additionally, I received instruction in the utilization of relational databases and other related topics.
+
+# Extras
+
+* Attended the “**Develop Android and iOS apps using a web programming language**” workshop at [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) with a duration of 3 hours.
