@@ -12,7 +12,7 @@ _Santa Catarina, Brazil._
 
 ---
 
-Being into software development for over 4 years, I managed to ship products which generated value and eased the life of more than 5000 users whilst improving the quality of existing software and creating new, valuable software from the beginning.
+Being into software development for over four years, I managed to ship products which generated value and eased the life of users. Also improved the quality of existing software and created new, valuable software from the beginning.
 Most of my experience comes down to working with JavaScript, TypeScript, React, React Native and Next.js.
 
 # Experiences
@@ -32,7 +32,7 @@ Most of my experience comes down to working with JavaScript, TypeScript, React, 
 
 Accomplishments:
 
-- Wrote internal projects to speed up the workflow of the other members of the company
+- Developed internal projects to speed up the workflow of the other members of the company
 - Successfully architected, analyzed, and recreated the existing mobile application, resulting in an increased rating from 3.6 to 4.8 stars on Google Play Store and 4.9 stars on App Store.
 - Redesigned the UI of our mobile application from scratch on Figma, led the entire development process, and published the updated application on both Google Play Store and App Store for Android and iOS users.
 - Architected, designed and led the development of a Chrome extension, including UI design using Figma and code logic development with Webpack configuration. Also integrated with WhatsApp to enable realtors to send macro messages and media files, and successfully published the application on the Chrome Web Store.
