@@ -34,8 +34,8 @@ Realizações:
 
 - Desenvolvi projetos internos para agilizar o fluxo de trabalho dos demais membros da empresa
 - Arquitetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em uma classificação aumentada de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
-- Redesenhei a interface do usuário do nosso aplicativo móvel do zero no Figma. Conduzi todo o processo de desenvolvimento e publiquei o aplicativo atualizado na Google Play Store e na App Store para usuários de Android e iOS.
-- Arquitetei, projetei e liderei o desenvolvimento de uma extensão do Chrome, incluindo design de UI usando Figma e desenvolvimento de lógica de código com configuração de Webpack. Também integrei ao WhatsApp para permitir que corretores de imóveis enviem mensagens de macro e arquivos de mídia, e publiquei com sucesso a aplicação na Chrome Web Store.
+- Redesenhei a interface de usuário do nosso aplicativo móvel do zero no Figma. Conduzi todo o processo de desenvolvimento e publiquei o aplicativo atualizado na Google Play Store e na App Store para usuários de Android e iOS.
+- Arquitetei, projetei e liderei o desenvolvimento de uma extensão do Chrome, incluindo design de UI usando Figma e desenvolvimento de lógica de código com configuração de Webpack. Também integrei ao WhatsApp para permitir que corretores de imóveis enviem mensagens de macro e arquivos de mídia e publiquei com sucesso a aplicação na Chrome Web Store.
 
 Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**
 
@@ -59,7 +59,7 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 ## CEDUP Diomício Freitas
 
-###### Técnico em Informática para Internet, Desenvolvimento web; Santa Catarina, Brasil; Jan 2018 - Dez 2020
+###### Técnico em Informática para Internet; Santa Catarina, Brasil; Jan 2018 - Dez 2020
 
 > [CEDUP Diomício Freitas](https://ceduptubarao.com.br/) é uma escola técnica vinculada a rede estadual de educação (SC) que oferece diversos cursos profissionalizantes.
 
@@ -67,4 +67,4 @@ Durante o curso de meu programa de três anos, adquiri um amplo entendimento dos
 
 # Extras
 
-Participação no workshop “**Develop Android and iOS apps using a web programming language**” em [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) com duração de 3 horas.
+Participação na oficina “**Desenvolva aplicativos para Android e iOS utilizando linguagem da Web.**” em [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) com duração de 3 horas.
