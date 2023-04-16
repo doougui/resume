@@ -22,7 +22,7 @@ Most of my experience comes down to working with JavaScript, TypeScript, React, 
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="./assets/tecimob-logo.png" align="left" />
+<img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
 
 ## Tecimob
 
@@ -39,7 +39,7 @@ Accomplishments:
 
 Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**
 
-<img src="./assets/quikdev-logo.png" align="left" />
+<img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
 ## QuikDev
 
