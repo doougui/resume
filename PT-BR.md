@@ -57,6 +57,8 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 # Educação
 
+<img src="https://user-images.githubusercontent.com/44846329/232353960-119b79b5-bb3c-480f-95e7-85a0c00fd95d.png" align="left" />
+
 ## CEDUP Diomício Freitas
 
 ###### Técnico em Informática para Internet; Santa Catarina, Brasil; Jan 2018 - Dez 2020
