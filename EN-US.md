@@ -13,7 +13,7 @@ _Santa Catarina, Brazil._
 ---
 
 Being into software development for over four years, I managed to ship products which generated value and eased the life of users. Also improved the quality of existing software and created new, valuable software from the beginning.
-Most of my experience comes down to working with JavaScript, TypeScript, React, React Native and Next.js.
+Most of my experience comes down to working with **JavaScript, TypeScript, React, React Native and Next.js**.
 
 # Experiences
 
