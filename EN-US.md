@@ -6,7 +6,7 @@
 
 # Douglas Pinheiro Goulart
 
-_Software Developer._  
+_Software Engineer._  
 _Santa Catarina, Brazil._  
 <sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui)</sub>
 
