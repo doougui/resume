@@ -32,7 +32,7 @@ A maior parte da minha experiência se resume a trabalhar com JavaScript, TypeSc
 
 Realizações:
 
-- Desenvolvi projetos internos para agilizar o fluxo de trabalho dos demais membros da empresa
+- Desenvolvi projetos internos para agilizar o fluxo de trabalho dos demais membros da empresa.
 - Arquitetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em uma classificação aumentada de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
 - Redesenhei a interface de usuário do nosso aplicativo móvel do zero no Figma. Conduzi todo o processo de desenvolvimento e publiquei o aplicativo atualizado na Google Play Store e na App Store para usuários de Android e iOS.
 - Arquitetei, projetei e liderei o desenvolvimento de uma extensão do Chrome, incluindo design de UI usando Figma e desenvolvimento de lógica de código com configuração de Webpack. Também integrei ao WhatsApp para permitir que corretores de imóveis enviem mensagens de macro e arquivos de mídia e publiquei com sucesso a aplicação na Chrome Web Store.
@@ -49,9 +49,9 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 
 Realizações
 
-- Dei manutenção e evoluí a aplicação de gestão empresarial Terravista ajudando mais de 253 empresas a crescer
-- Trabalhei como desenvolvedor full-stack fazendo uso de tecnologias como PHP com Zend Framework, Docker e JavaScript
-- Colaborei de perto com os membros da equipe para entregar um produto de alta qualidade, fazendo uso do SCRUM como um framework ágil
+- Dei manutenção e evoluí a aplicação de gestão empresarial Terravista ajudando mais de 253 empresas a crescer.
+- Trabalhei como desenvolvedor full-stack fazendo uso de tecnologias como PHP com Zend Framework, Docker e JavaScript.
+- Colaborei de perto com os membros da equipe para entregar um produto de alta qualidade, fazendo uso do SCRUM como um framework ágil.
 
 Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 

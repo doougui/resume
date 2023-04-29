@@ -32,7 +32,7 @@ Most of my experience comes down to working with **JavaScript, TypeScript, React
 
 Accomplishments:
 
-- Developed internal projects to speed up the workflow of the other members of the company
+- Developed internal projects to speed up the workflow of the other members of the company.
 - Successfully architected, analyzed, and recreated the existing mobile application, resulting in an increased rating from 3.6 to 4.8 stars on Google Play Store and 4.9 stars on App Store.
 - Redesigned the UI of our mobile application from scratch on Figma, led the entire development process, and published the updated application on both Google Play Store and App Store for Android and iOS users.
 - Architected, designed and led the development of a Chrome extension, including UI design using Figma and code logic development with Webpack configuration. Also integrated with WhatsApp to enable realtors to send macro messages and media files, and successfully published the application on the Chrome Web Store.
@@ -49,9 +49,9 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 
 Accomplishments:
 
-- Maintained and evolved the enterprise management application Terravista while helping more than 253 enterprises grow
-- Worked as a full-stack developer by making use of technologies like PHP with Zend Framework, Docker and JavaScript
-- Collaborated closely with team members to deliver a high quality product by making use of SCRUM as an Agile Framework
+- Maintained and evolved the enterprise management application Terravista while helping more than 253 enterprises grow.
+- Worked as a full-stack developer by making use of technologies like PHP with Zend Framework, Docker and JavaScript.
+- Collaborated closely with team members to deliver a high quality product by making use of SCRUM as an Agile Framework.
 
 Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
