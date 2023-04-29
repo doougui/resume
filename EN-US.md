@@ -12,7 +12,7 @@ _Santa Catarina, Brazil._
 
 ---
 
-Being into software development for over four years, I managed to ship products which generated value and eased the life of users. Also improved the quality of existing software and created new, valuable software from the beginning.
+Being into software development for over four years, I have contributed to the development of products that have generated value and eased the life of thousands of users. I also improved the quality of existing software and architected, analyzed and created new, valuable software from the beginning.
 Most of my experience comes down to working with **JavaScript, TypeScript, React, React Native and Next.js**.
 
 # Experiences
@@ -54,6 +54,22 @@ Accomplishments:
 - Collaborated closely with team members to deliver a high quality product by making use of SCRUM as an Agile Framework
 
 Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
+
+<img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
+
+## Freelancer web developer
+
+###### Freelancer Developer; Santa Catarina, Brazil (Remoto); January 2020 — May 2021
+
+> As a freelancer web developer, I was responsible for building accessible, performatic, and SEO-friendly websites for a wide range of clients.
+
+Accomplishments:
+
+- Developed several web applications for national and international clients.
+- Being responsible for end-to-end application development, I have participated in UI/UX, front-end, and back-end development.
+- I also participated in the development of accessible, semantic and SEO friendly websites.
+
+Tech stack: **HTML5, CSS3, PHP, JavaScript**
 
 # Education
 

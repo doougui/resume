@@ -12,7 +12,7 @@ _Santa Catarina, Brasil._
 
 ---
 
-Com mais de quatro anos de experiência em desenvolvimento de software, consegui lançar produtos que geraram valor e facilitaram a vida dos usuários. Também melhorei a qualidade do software existente e criei novos softwares valiosos desde o início.
+Com mais de quatro anos de experiência em desenvolvimento de software, contribui com produtos que geraram valor e facilitaram a vida de milhares de usuários. Também melhorei a qualidade de softwares existentes e arquitetei, analisei e criei novos softwares desde o início que geraram valor para uma grande base de clientes.
 A maior parte da minha experiência se resume a trabalhar com JavaScript, TypeScript, React, React Native e Next.js.
 
 # Experiências
@@ -54,6 +54,22 @@ Realizações
 - Colaborei de perto com os membros da equipe para entregar um produto de alta qualidade, fazendo uso do SCRUM como um framework ágil
 
 Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
+
+<img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
+
+## Freelancer web developer
+
+###### Desenvolvedor Freelancer; Santa Catarina, Brasil (Remoto); Janeiro 2020 — Maio 2021
+
+> Como desenvolvedor web freelancer, fui responsável por criar sites acessíveis, performáticos e otimizados para SEO para uma ampla gama de clientes.
+
+Realizações
+
+- Como desenvolvedor web freelancer, desenvolvi várias aplicações web para clientes nacionais e internacionais.
+- Sendo responsável pela construção de aplicações end-to-end, participei do desenvolvimento de UI/UX, front-end e back-end.
+- Participei da construção de sites acessíveis, semânticos e com SEO amigável.
+
+Tech stack: **HTML5, CSS3, PHP, JavaScript**
 
 # Educação
 
