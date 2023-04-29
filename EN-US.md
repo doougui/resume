@@ -67,7 +67,7 @@ Accomplishments:
 
 - Developed several web applications for national and international clients.
 - Being responsible for end-to-end application development, I have participated in UI/UX, front-end, and back-end development.
-- Developed of accessible, semantic and SEO friendly websites.
+- Developed accessible, semantic and SEO friendly websites.
 
 Tech stack: **HTML5, CSS3, PHP, JavaScript**
 
