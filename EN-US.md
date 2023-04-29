@@ -19,6 +19,7 @@ Most of my experience comes down to working with **JavaScript, TypeScript, React
 
 - [Tecimob Aug 2021 - Present](#tecimob)
 - [QuikDev May 2021 - Aug 2021](#quikdev)
+- [Freelancer Jan 2020 - May 2021](#freelancer-web-developer)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 

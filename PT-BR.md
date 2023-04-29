@@ -19,6 +19,7 @@ A maior parte da minha experiência se resume a trabalhar com JavaScript, TypeSc
 
 - [Tecimob Ago 2021 - Presente](#tecimob)
 - [QuikDev Maio 2021 - Ago 2021](#quikdev)
+- [Freelancer Jan 2020 - Maio 2021](#desenvolvedor-web-freelancer)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
@@ -57,7 +58,7 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 <img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
 
-## Desenolvedor web freelancer
+## Desenvolvedor web freelancer
 
 ###### Desenvolvedor Freelancer; Santa Catarina, Brasil (Remoto); Janeiro 2020 — Maio 2021
 
