@@ -37,7 +37,7 @@ Accomplishments:
 - Redesigned the UI of our mobile application from scratch on Figma, led the entire development process, and published the updated application on both Google Play Store and App Store for Android and iOS users.
 - Architected, designed and led the development of a Chrome extension, including UI design using Figma and code logic development with Webpack configuration. Also integrated with WhatsApp to enable realtors to send macro messages and media files, and successfully published the application on the Chrome Web Store.
 
-Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**
+Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack, Figma**
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
@@ -67,7 +67,7 @@ Accomplishments:
 
 - Developed several web applications for national and international clients.
 - Being responsible for end-to-end application development, I have participated in UI/UX, front-end, and back-end development.
-- I also participated in the development of accessible, semantic and SEO friendly websites.
+- Developed of accessible, semantic and SEO friendly websites.
 
 Tech stack: **HTML5, CSS3, PHP, JavaScript**
 

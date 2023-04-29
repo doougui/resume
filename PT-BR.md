@@ -37,7 +37,7 @@ Realizações:
 - Redesenhei a interface de usuário do nosso aplicativo móvel do zero no Figma. Conduzi todo o processo de desenvolvimento e publiquei o aplicativo atualizado na Google Play Store e na App Store para usuários de Android e iOS.
 - Arquitetei, projetei e liderei o desenvolvimento de uma extensão do Chrome, incluindo design de UI usando Figma e desenvolvimento de lógica de código com configuração de Webpack. Também integrei ao WhatsApp para permitir que corretores de imóveis enviem mensagens de macro e arquivos de mídia e publiquei com sucesso a aplicação na Chrome Web Store.
 
-Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**
+Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack, Figma**
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
@@ -57,7 +57,7 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 <img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
 
-## Freelancer web developer
+## Desenolvedor web freelancer
 
 ###### Desenvolvedor Freelancer; Santa Catarina, Brasil (Remoto); Janeiro 2020 — Maio 2021
 
@@ -65,9 +65,9 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 Realizações
 
-- Como desenvolvedor web freelancer, desenvolvi várias aplicações web para clientes nacionais e internacionais.
+- Desenvolvi várias aplicações web para clientes nacionais e internacionais.
 - Sendo responsável pela construção de aplicações end-to-end, participei do desenvolvimento de UI/UX, front-end e back-end.
-- Participei da construção de sites acessíveis, semânticos e com SEO amigável.
+- Construí sites acessíveis, semânticos e com SEO amigável.
 
 Tech stack: **HTML5, CSS3, PHP, JavaScript**
 
