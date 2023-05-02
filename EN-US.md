@@ -84,6 +84,11 @@ Tech stack: **HTML5, CSS3, PHP, JavaScript**
 
 During the course of my three-year program, I gained a comprehensive understanding of computer programming fundamentals, including algorithms. With a focus on web development, I acquired knowledge about the workings of the internet, including the Hypertext Transfer Protocol (HTTP). Additionally, I received instruction in the utilization of relational databases and other related topics.
 
+# Languages
+
+- **Portuguese:** Native
+- **English:** Advanced
+
 # Extras
 
 * Attended the “**Develop Android and iOS apps using a web programming language**” workshop at [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) with a duration of 3 hours.
