@@ -12,8 +12,8 @@ _Santa Catarina, Brasil._
 
 ---
 
-Com mais de quatro anos de experiência em desenvolvimento de software, contribui com produtos que geraram valor e facilitaram a vida de milhares de usuários. Também melhorei a qualidade de softwares existentes e arquitetei, analisei e criei novos softwares desde o início que geraram valor para uma grande base de clientes.
-A maior parte da minha experiência se resume a trabalhar com JavaScript, TypeScript, React, React Native e Next.js.
+Com mais de quatro anos de experiência em desenvolvimento de software, contribuí para a criação de produtos que geraram valor e facilitaram a vida de milhares de usuários. Além disso, aprimorei a qualidade de softwares existentes e criei novos softwares do zero que geraram valor para uma ampla base de clientes.
+A maior parte da minha experiência se resume a trabalhar com **JavaScript, TypeScript, React.js, React Native, Next.js and Node.js**.
 
 # Experiências
 
@@ -33,12 +33,12 @@ A maior parte da minha experiência se resume a trabalhar com JavaScript, TypeSc
 
 Realizações:
 
-- Desenvolvi projetos internos para agilizar o fluxo de trabalho dos demais membros da empresa.
-- Arquitetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em uma classificação aumentada de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
-- Redesenhei a interface de usuário do nosso aplicativo móvel do zero no Figma. Conduzi todo o processo de desenvolvimento e publiquei o aplicativo atualizado na Google Play Store e na App Store para usuários de Android e iOS.
-- Arquitetei, projetei e liderei o desenvolvimento de uma extensão do Chrome, incluindo design de UI usando Figma e desenvolvimento de lógica de código com configuração de Webpack. Também integrei ao WhatsApp para permitir que corretores de imóveis enviem mensagens de macro e arquivos de mídia e publiquei com sucesso a aplicação na Chrome Web Store.
+- Desenvolvi projetos internos utilizando React.js e seu ecossistema para agilizar o fluxo de trabalho dos membros da empresa.
+- Projetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em um aumento na classificação de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
+- Redesenhei a interface de usuário do nosso aplicativo móvel completamente usando o Figma. Conduzi todo o processo de desenvolvimento e publiquei a versão atualizada do aplicativo na Google Play Store e na App Store para usuários do Android e iOS.
+- Projetei e liderei o desenvolvimento de uma extensão para o Chrome, incluindo o design de UI usando o Figma e o desenvolvimento da aplicação completa. Isso facilitou o trabalho de milhares de corretores de imóveis, permitindo que eles se concentrassem no que realmente importa: vender mais e melhorar o relacionamento.
 
-Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack, Figma**
+Tech stack: **TypeScript, React.js, React Native, Styled-Components, Figma, Jest, ESLint, Prettier, Git, Webpack**.
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
@@ -50,11 +50,13 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 
 Realizações
 
-- Dei manutenção e evoluí a aplicação de gestão empresarial Terravista ajudando mais de 253 empresas a crescer.
-- Trabalhei como desenvolvedor full-stack fazendo uso de tecnologias como PHP com Zend Framework, Docker e JavaScript.
-- Colaborei de perto com os membros da equipe para entregar um produto de alta qualidade, fazendo uso do SCRUM como um framework ágil.
+- Trabalhei na manutenção e evolução da aplicação de gestão empresarial Terravista.
+- Identifiquei e resolvi problemas em colaboração com a equipe de desenvolvimento.
+- Propus melhorias de código para aumentar a escalabilidade e estabilidade da aplicação.
+- Contribuí para o sucesso da aplicação, ajudando mais de 253 empresas a crescer.
+- Aprimorei a usabilidade e interface de usuário da aplicação, resultando em uma experiência mais intuitiva e satisfatória para os usuários.
 
-Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
+Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 
 <img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
 
@@ -66,11 +68,11 @@ Tech stack: **PHP, Zend Framework, JavaScript, jQuery, Docker**
 
 Realizações
 
-- Desenvolvi várias aplicações web para clientes nacionais e internacionais.
-- Sendo responsável pela construção de aplicações end-to-end, participei do desenvolvimento de UI/UX, front-end e back-end.
-- Construí sites acessíveis, semânticos e com SEO amigável.
+- Desenvolvi várias aplicações web personalizadas para clientes nacionais e internacionais.
+- Atuei como desenvolvedor full-stack, assumindo a responsabilidade pela construção completa de aplicações web, desde a criação do design de UI/UX até a implementação do front-end e back-end.
+- Desenvolvi sites modernos, acessíveis e otimizados para mecanismos de busca, utilizando tecnologias como HTML5, CSS3, JavaScript e PHP. Garanti que os sites fossem compatíveis com diversos dispositivos e navegadores, proporcionando a melhor experiência possível aos usuários.
 
-Tech stack: **HTML5, CSS3, PHP, JavaScript**
+Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
 # Educação
 
