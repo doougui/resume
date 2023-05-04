@@ -64,7 +64,7 @@ Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 
 ###### Freelancer Developer; Santa Catarina, Brazil (Remoto); January 2020 — May 2021
 
-> As a freelancer web developer, I was responsible for building accessible, performatic, and SEO-friendly websites for a wide range of clients.
+> As a freelancer web developer, I was responsible for building accessible, performative, and SEO-friendly websites for a wide range of clients.
 
 Accomplishments:
 
