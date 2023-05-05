@@ -8,7 +8,7 @@
 
 _Software Engineer._  
 _Santa Catarina, Brazil._  
-<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui) - Telefone: +55 (48) 99975-1669</sub>
+<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui) - Phone: +55 (48) 99975-1669</sub>
 
 ---
 
