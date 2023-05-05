@@ -8,24 +8,18 @@
 
 _Software Engineer._  
 _Santa Catarina, Brazil._  
-<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui)</sub>
+<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui) - Telefone: +55 (48) 99975-1669</sub>
 
 ---
 
 With over four years of experience in software development, I have contributed to the creation of products that have generated value and made life easier for thousands of users. In addition, I have improved the quality of existing software and created new software from scratch that has generated value for a wide customer base.
 Most of my experience comes down to working with **JavaScript, TypeScript, React.js, React Native, Next.js and Node.js**.
 
-# Experiences
-
-- [Tecimob Aug 2021 - Present](#tecimob)
-- [QuikDev May 2021 - Aug 2021](#quikdev)
-- [Freelancer Jan 2020 - May 2021](#freelancer-web-developer)
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+## Professional experiences
 
 <img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
 
-## Tecimob
+### Tecimob
 
 ###### Software developer; Santa Catarina, Brazil (Remote); August 2021 — Present
 
@@ -42,7 +36,7 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
-## QuikDev
+### QuikDev
 
 ###### Junior Full-Stack Developer; São Paulo, Brazil (Remote); May 2021 — August 2021
 
@@ -60,7 +54,7 @@ Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 
 <img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
 
-## Freelancer web developer
+### Freelancer web developer
 
 ###### Freelancer Developer; Santa Catarina, Brazil (Remoto); January 2020 — May 2021
 
@@ -74,11 +68,11 @@ Accomplishments:
 
 Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
-# Education
+## Education
 
 <img src="https://user-images.githubusercontent.com/44846329/232353960-119b79b5-bb3c-480f-95e7-85a0c00fd95d.png" align="left" />
 
-## CEDUP Diomício Freitas
+### CEDUP Diomício Freitas
 
 ###### Internet IT Technician, Web Development; Santa Catarina, Brazil; Jan 2018 - Dec 2020
 
@@ -86,11 +80,11 @@ Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
 During the course of my three-year program, I gained a comprehensive understanding of computer programming fundamentals, including algorithms. With a focus on web development, I acquired knowledge about the workings of the internet, including the Hypertext Transfer Protocol (HTTP). Additionally, I received instruction in the utilization of relational databases and other related topics.
 
-# Languages
+## Languages
 
 - **Portuguese:** Native
 - **English:** Advanced
 
-# Extras
+## Extras
 
 * Attended the “**Develop Android and iOS apps using a web programming language**” workshop at [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) with a duration of 3 hours.

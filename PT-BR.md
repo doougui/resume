@@ -8,47 +8,35 @@
 
 _Desenvolvedor de Software._  
 _Santa Catarina, Brasil._  
-<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui)</sub>
-
----
+<sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui) - Telefone: +55 (48) 99975-1669</sub>
 
 Com mais de quatro anos de experiência em desenvolvimento de software, contribuí para a criação de produtos que geraram valor e facilitaram a vida de milhares de usuários. Além disso, aprimorei a qualidade de softwares existentes e criei novos softwares do zero que geraram valor para uma ampla base de clientes.
 A maior parte da minha experiência se resume a trabalhar com **JavaScript, TypeScript, React.js, React Native, Next.js and Node.js**.
 
-# Experiências
-
-- [Tecimob Ago 2021 - Presente](#tecimob)
-- [QuikDev Maio 2021 - Ago 2021](#quikdev)
-- [Freelancer Jan 2020 - Maio 2021](#desenvolvedor-web-freelancer)
-
-![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+## Experiências profissionais
 
 <img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
 
-## Tecimob
+### Tecimob
 
 ###### Desenvolvedor de Software; Santa Catarina, Brasil (Remoto); Agosto 2021 — Presente
 
 > [Tecimob](https://tecimob.com.br/) é um Site, CRM e Aplicativo com o objetivo de facilitar o dia a dia de imobiliárias e corretores com foco no que realmente importa: vender mais e melhorar o relacionamento.
 
-Realizações:
-
 - Desenvolvi projetos internos utilizando React.js e seu ecossistema para agilizar o fluxo de trabalho dos membros da empresa.
 - Projetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em um aumento na classificação de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
-- Redesenhei a interface de usuário do nosso aplicativo móvel completamente usando o Figma. Conduzi todo o processo de desenvolvimento e publiquei a versão atualizada do aplicativo na Google Play Store e na App Store para usuários do Android e iOS.
+- Redesenhei a interface de usuário do nosso aplicativo móvel completamente usando o Figma. Conduzi todo o processo de desenvolvimento e publiquei a versão atualizada do aplicativo na Google Play Store e na App Store para usuários de Android e iOS.
 - Projetei e liderei o desenvolvimento de uma extensão para o Chrome, incluindo o design de UI usando o Figma e o desenvolvimento da aplicação completa. Isso facilitou o trabalho de milhares de corretores de imóveis, permitindo que eles se concentrassem no que realmente importa: vender mais e melhorar o relacionamento.
 
 Tech stack: **TypeScript, React.js, React Native, Styled-Components, Figma, Jest, ESLint, Prettier, Git, Webpack**.
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
-## QuikDev
+### QuikDev
 
 ###### Desenvolvedor Full-Stack; São Paulo, Brasil (Remoto); Maio 2021 — Agosto 2021
 
 > [QuikDev](https://quikdev.com.br/) A QuikDev é uma empresa brasileira de tecnologia da informação (TI) que oferece serviços de desenvolvimento de software personalizado e consultoria em TI para empresas de diversos setores.
-
-Realizações
 
 - Trabalhei na manutenção e evolução da aplicação de gestão empresarial Terravista.
 - Identifiquei e resolvi problemas em colaboração com a equipe de desenvolvimento.
@@ -60,13 +48,11 @@ Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 
 <img src="https://douglasgoulart.com/img/icon-192.png" width="48" align="left" />
 
-## Desenvolvedor web freelancer
+### Desenvolvedor web freelancer
 
 ###### Desenvolvedor Freelancer; Santa Catarina, Brasil (Remoto); Janeiro 2020 — Maio 2021
 
 > Como desenvolvedor web freelancer, fui responsável por criar sites acessíveis, performáticos e otimizados para SEO para uma ampla gama de clientes.
-
-Realizações
 
 - Desenvolvi várias aplicações web personalizadas para clientes nacionais e internacionais.
 - Atuei como desenvolvedor full-stack, assumindo a responsabilidade pela construção completa de aplicações web, desde a criação do design de UI/UX até a implementação do front-end e back-end.
@@ -74,11 +60,11 @@ Realizações
 
 Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
-# Educação
+## Educação
 
 <img src="https://user-images.githubusercontent.com/44846329/232353960-119b79b5-bb3c-480f-95e7-85a0c00fd95d.png" align="left" />
 
-## CEDUP Diomício Freitas
+### CEDUP Diomício Freitas
 
 ###### Técnico em Informática para Internet; Santa Catarina, Brasil; Jan 2018 - Dez 2020
 
@@ -86,11 +72,11 @@ Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
 Durante o curso de meu programa de três anos, adquiri um amplo entendimento dos fundamentos da programação de computadores, incluindo algoritmos. Com foco no desenvolvimento web, adquiri conhecimento sobre o funcionamento da internet, incluindo o Protocolo de Transferência de Hipertexto (HTTP). Além disso, recebi instrução na utilização de bancos de dados relacionais e outros tópicos relacionados.
 
-# Idiomas
+## Idiomas
 
 - **Português:** Nativo
 - **Inglês:** Avançado
 
-# Extras
+## Extras
 
 Participação na oficina “**Desenvolva aplicativos para Android e iOS utilizando linguagem da Web.**” em [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) com duração de 3 horas.
