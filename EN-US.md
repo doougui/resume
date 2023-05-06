@@ -46,7 +46,7 @@ Accomplishments:
 
 - Worked on the maintenance and evolution of the Terravista enterprise management application.
 - Identified and solved problems in collaboration with the development team.
-- Prooposed code improvements to increase the scalability and stability of the application.
+- Proposed code improvements to increase the scalability and stability of the application.
 - Contributed to the success of the application, helping over 253 companies to grow.
 - Improved the usability and user interface of the application, resulting in a more intuitive and satisfying experience for the users.
 
@@ -56,7 +56,7 @@ Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 
 ### Freelancer web developer
 
-###### Freelancer Developer; Santa Catarina, Brazil (Remoto); January 2020 — May 2021
+###### Freelancer Developer; Santa Catarina, Brazil (Remote); January 2020 — May 2021
 
 > As a freelancer web developer, I was responsible for building accessible, performative, and SEO-friendly websites for a wide range of clients.
 
@@ -74,7 +74,7 @@ Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
 ### CEDUP Diomício Freitas
 
-###### Internet IT Technician, Web Development; Santa Catarina, Brazil; Jan 2018 - Dec 2020
+###### Internet IT Technician, Web Development; Santa Catarina, Brazil; January 2018 - Dec 2020
 
 > [CEDUP Diomício Freitas](https://ceduptubarao.com.br/) is a technical school affiliated with the state education system in Santa Catarina, Brazil, which offers a variety of vocational training courses.
 

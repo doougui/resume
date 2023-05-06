@@ -66,7 +66,7 @@ Tech stack: **HTML5, CSS3, PHP, JavaScript**.
 
 ### CEDUP Diomício Freitas
 
-###### Técnico em Informática para Internet; Santa Catarina, Brasil; Jan 2018 - Dez 2020
+###### Técnico em Informática para Internet; Santa Catarina, Brasil; Janeiro 2018 - Dezembro 2020
 
 > [CEDUP Diomício Freitas](https://ceduptubarao.com.br/) é uma escola técnica vinculada a rede estadual de educação (SC) que oferece diversos cursos profissionalizantes.
 
