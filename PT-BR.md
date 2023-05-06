@@ -36,7 +36,7 @@ Tech stack: **TypeScript, React.js, React Native, Styled-Components, Figma, Jest
 
 ###### Desenvolvedor Full-Stack; São Paulo, Brasil (Remoto); Maio 2021 — Agosto 2021
 
-> [QuikDev](https://quikdev.com.br/) A QuikDev é uma empresa brasileira de tecnologia da informação (TI) que oferece serviços de desenvolvimento de software personalizado e consultoria em TI para empresas de diversos setores.
+> A [QuikDev](https://quikdev.com.br/) é uma empresa brasileira de tecnologia da informação (TI) que oferece serviços de desenvolvimento de software personalizado e consultoria em TI para empresas de diversos setores.
 
 - Trabalhei na manutenção e evolução da aplicação de gestão empresarial Terravista.
 - Identifiquei e resolvi problemas em colaboração com a equipe de desenvolvimento.

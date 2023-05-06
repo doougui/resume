@@ -40,7 +40,7 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 
 ###### Junior Full-Stack Developer; São Paulo, Brazil (Remote); May 2021 — August 2021
 
-> [QuikDev](https://quikdev.com.br/) QuikDev is a Brazilian information technology (IT) company that offers custom software development and IT consulting services to companies in various industries.
+> [QuikDev](https://quikdev.com.br/) is a Brazilian information technology (IT) company that offers custom software development and IT consulting services to companies in various industries.
 
 Accomplishments:
 
