@@ -10,8 +10,7 @@ _Desenvolvedor de Software._
 _Santa Catarina, Brasil._  
 <sub>[Website](https://douglasgoulart.com/) - [E-mail](douglaspigoulart@gmail.com) - [LinkedIn](https://linkedin.com/in/douglaspigoulart/) - [GitHub](https://github.com/doougui) - Telefone: +55 (48) 99975-1669</sub>
 
-Com mais de quatro anos de experiência em desenvolvimento de software, contribuí para a criação de produtos que geraram valor e facilitaram a vida de milhares de usuários. Além disso, aprimorei a qualidade de softwares existentes e criei novos softwares do zero que geraram valor para uma ampla base de clientes.
-A maior parte da minha experiência se resume a trabalhar com **JavaScript, TypeScript, React.js, React Native, Next.js and Node.js**.
+Desenvolvedor full-stack experiente com expertise em desenvolvimento front-end e mobile. Projetei, desenvolvi e publiquei com sucesso aplicativos internos e públicos com alta interação do usuário e feedback positivo. Habilidade em JavaScript, TypeScript, React.js, React Native, Next.js, Node.js e outras ferramentas de desenvolvimento, com foco em usabilidade e acessibilidade. Experiente em colaborar com equipes multifuncionais para entregar soluções de software de alta qualidade.
 
 ## Experiências profissionais
 
@@ -23,10 +22,10 @@ A maior parte da minha experiência se resume a trabalhar com **JavaScript, Type
 
 > [Tecimob](https://tecimob.com.br/) é um Site, CRM e Aplicativo com o objetivo de facilitar o dia a dia de imobiliárias e corretores com foco no que realmente importa: vender mais e melhorar o relacionamento.
 
-- Desenvolvi projetos internos utilizando React.js e seu ecossistema para agilizar o fluxo de trabalho dos membros da empresa.
+- Desenvolvi projetos internos com mais de 100 mil interações mensais utilizando React.js e seu ecossistema para agilizar o fluxo de trabalho dos membros da empresa.
 - Projetei, analisei e recriei com sucesso o aplicativo móvel existente, resultando em um aumento na classificação de 3,6 para 4,8 estrelas na Google Play Store e 4,9 estrelas na App Store.
 - Redesenhei a interface de usuário do nosso aplicativo móvel completamente usando o Figma. Conduzi todo o processo de desenvolvimento e publiquei a versão atualizada do aplicativo na Google Play Store e na App Store para usuários de Android e iOS.
-- Projetei e liderei o desenvolvimento de uma extensão para o Chrome, incluindo o design de UI usando o Figma e o desenvolvimento da aplicação completa. Isso facilitou o trabalho de milhares de corretores de imóveis, permitindo que eles se concentrassem no que realmente importa: vender mais e melhorar o relacionamento.
+- Projetei e liderei o desenvolvimento de uma extensão para o Chrome, incluindo o design de UI usando o Figma e o desenvolvimento da aplicação completa. Isso facilitou o trabalho de milhares de corretores de imóveis, permitindo que eles foquem no que realmente importa e agilizando seu fluxo de trabalho.
 
 Tech stack: **TypeScript, React.js, React Native, Styled-Components, Figma, Jest, ESLint, Prettier, Git, Webpack**.
 

@@ -12,8 +12,7 @@ _Santa Catarina, Brazil._
 
 ---
 
-With over four years of experience in software development, I have contributed to the creation of products that have generated value and made life easier for thousands of users. In addition, I have improved the quality of existing software and created new software from scratch that has generated value for a wide customer base.
-Most of my experience comes down to working with **JavaScript, TypeScript, React.js, React Native, Next.js and Node.js**.
+Experienced full-stack developer with expertise in front-end and mobile development. Successfully designed, developed, and launched internal and public-facing applications with high user interaction and positive feedback. Skilled in JavaScript, TypeScript, React.js, React Native, Next.js, Node.js and other development tools, with a focus on usability and accessibility. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 
 ## Professional experiences
 
@@ -25,12 +24,12 @@ Most of my experience comes down to working with **JavaScript, TypeScript, React
 
 > [Tecimob](https://tecimob.com.br/) is a Website, CRM and Application with the objective of easing the day-to-day lives of real estates and realtors by focusing on what really matters: selling more and improving relationships.
 
-- Developed internal projects using React.js and its ecosystem to streamline the workflow of company members.
+- Developed internal projects with over 100k interactions per month by using React.js and its ecosystem to streamline the workflow of company members.
 - Successfully designed, analyzed, and recreated the existing mobile application, resulting in an increase in the rating from 3.6 to 4.8 stars on the Google Play Store and 4.9 stars on the App Store.
 - Completely redesigned the user interface of our mobile application using Figma, led the entire development process and published the updated version of the application on the Google Play Store and App Store for Android and iOS users.
-- Designed and led the development of a Chrome extension, including UI design using Figma and complete application development. This facilitated the work of thousands of real estate brokers, allowing them to focus on what really matters: selling more and improving relationships.
+- Designed and led the development of a Chrome extension, including UI design using Figma and complete application development. This facilitated the work of thousands of real estate brokers, allowing them to focus on what really matters and streamlining their workflow.
 
-Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**.
+Tech stack: **React.js, React Native, Styled-Components, JavaScript, TypeScript, Figma, Jest, ESLint, Prettier, Git, Webpack**.
 
 <img src="https://user-images.githubusercontent.com/44846329/232336837-1863a906-1e7b-4a10-9b6a-b7e3aff81623.png" align="left" />
 
