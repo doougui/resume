@@ -25,8 +25,6 @@ Most of my experience comes down to working with **JavaScript, TypeScript, React
 
 > [Tecimob](https://tecimob.com.br/) is a Website, CRM and Application with the objective of easing the day-to-day lives of real estates and realtors by focusing on what really matters: selling more and improving relationships.
 
-Accomplishments:
-
 - Developed internal projects using React.js and its ecosystem to streamline the workflow of company members.
 - Successfully designed, analyzed, and recreated the existing mobile application, resulting in an increase in the rating from 3.6 to 4.8 stars on the Google Play Store and 4.9 stars on the App Store.
 - Completely redesigned the user interface of our mobile application using Figma, led the entire development process and published the updated version of the application on the Google Play Store and App Store for Android and iOS users.
@@ -41,8 +39,6 @@ Tech stack: **React.js, React Native, Styled-Components, TypeScript, Figma, Jest
 ###### Junior Full-Stack Developer; São Paulo, Brazil (Remote); May 2021 — August 2021
 
 > [QuikDev](https://quikdev.com.br/) is a Brazilian information technology (IT) company that offers custom software development and IT consulting services to companies in various industries.
-
-Accomplishments:
 
 - Worked on the maintenance and evolution of the Terravista enterprise management application.
 - Identified and solved problems in collaboration with the development team.
@@ -59,8 +55,6 @@ Tech stack: **PHP, JavaScript, Docker, SCRUM, jQuery, Zend Framework**.
 ###### Freelancer Developer; Santa Catarina, Brazil (Remote); January 2020 — May 2021
 
 > As a freelancer web developer, I was responsible for building accessible, performative, and SEO-friendly websites for a wide range of clients.
-
-Accomplishments:
 
 - Developed several customized web applications for national and international clients.
 - Worked as a full-stack developer, taking responsibility for the complete construction of web applications, from UI/UX design creation to front-end and back-end implementation.
