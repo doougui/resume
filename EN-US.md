@@ -20,7 +20,7 @@ Experienced full-stack developer with expertise in front-end and mobile developm
 
 ### ecoPortal
 
-###### Front-end Developer; Santa Catarina, Brazil (Remote); July 2021 — Present
+###### Front-end Developer; Santa Catarina, Brazil (Remote); July 2023 — Present
 
 > [ecoPortal](https://www.ecoportal.com/) is a SaaS application focused on Health & Safety management, primarily serving the New Zealand market, where it leads at the enterprise level.
 
