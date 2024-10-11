@@ -16,19 +16,23 @@ Experienced full-stack developer with expertise in front-end and mobile developm
 
 ## Professional experiences
 
-### Tecimob
+<img src="https://github.com/user-attachments/assets/b4feb1a6-cdbf-4245-840a-cbda6aa70170" align="left" />
+
+### ecoPortal
 
 ###### Front-end Developer; Santa Catarina, Brazil (Remote); July 2021 — Present
 
 > [ecoPortal](https://www.ecoportal.com/) is a SaaS application focused on Health & Safety management, primarily serving the New Zealand market, where it leads at the enterprise level.
 
-- Created several highly scalable components based on Figma Designs, well documented in Storybook and Chromatic. 
+- Created several highly scalable components based on Figma Designs, well documented in Storybook and Chromatic.
 - Worked on the migration from the existing Angular.js tech stack to a more modern and robust React.js tech stack with bleeding edge technologies.
 - Worked on development work around new features being built alongside the migration.
 
 Tech stack: **React.js, Redux.js, Docker, JavaScript, TypeScript, Jest, ESLint, Prettier, Git, GraphQL, SASS, Emotion, Storybook, React Testing Library**.
 
 <img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
+
+### Tecimob
 
 ###### Software developer; Santa Catarina, Brazil (Remote); August 2021 — July 2023
 
@@ -90,4 +94,4 @@ During the course of my three-year program, I gained a comprehensive understandi
 
 ## Extras
 
-* Attended the “**Develop Android and iOS apps using a web programming language**” workshop at [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) with a duration of 3 hours.
+- Attended the “**Develop Android and iOS apps using a web programming language**” workshop at [IFSC - Tubarão](https://www.ifsc.edu.br/web/campus-tubarao) with a duration of 3 hours.
