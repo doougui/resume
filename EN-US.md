@@ -16,11 +16,21 @@ Experienced full-stack developer with expertise in front-end and mobile developm
 
 ## Professional experiences
 
-<img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
-
 ### Tecimob
 
-###### Software developer; Santa Catarina, Brazil (Remote); August 2021 — Present
+###### Front-end Developer; Santa Catarina, Brazil (Remote); July 2021 — Present
+
+> [ecoPortal](https://www.ecoportal.com/) is a SaaS application focused on Health & Safety management, primarily serving the New Zealand market, where it leads at the enterprise level.
+
+- Created several highly scalable components based on Figma Designs, well documented in Storybook and Chromatic. 
+- Worked on the migration from the existing Angular.js tech stack to a more modern and robust React.js tech stack with bleeding edge technologies.
+- Worked on development work around new features being built alongside the migration.
+
+Tech stack: **React.js, Redux.js, Docker, JavaScript, TypeScript, Jest, ESLint, Prettier, Git, GraphQL, SASS, Emotion, Storybook, React Testing Library**.
+
+<img src="https://user-images.githubusercontent.com/44846329/232336807-b81fe5e3-b5b5-4b31-96c2-fe634507630e.png" align="left" />
+
+###### Software developer; Santa Catarina, Brazil (Remote); August 2021 — July 2023
 
 > [Tecimob](https://tecimob.com.br/) is a Website, CRM and Application with the objective of easing the day-to-day lives of real estates and realtors by focusing on what really matters: selling more and improving relationships.
 
